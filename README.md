@@ -76,25 +76,6 @@ src/
 
 ---
 
-## AI Tools Used
-
-- **Claude (Anthropic)** — component architecture, copy refinement, and code generation
-- **Unsplash** — placeholder photography for entertainment attraction cards
-- **Midjourney** *(recommended for production)* — generative renderings for property and luxury sections where real assets are unavailable
-
----
-
-## Design Inspiration
-
-The visual language draws from three references:
-
-- **Apple** — restraint, whitespace, typographic precision
-- **Hermes** — quiet luxury, gold as accent not decoration
-- **Tesla** — dark UI, video-first, data presented with confidence
-
-Typography anchors the identity. Cormorant Garamond at large display sizes creates an editorial, couture-adjacent feel that positions Dubai Mall as a destination brand rather than a retail directory.
-
----
 
 ## Features
 
@@ -124,7 +105,3 @@ Or via Vercel CLI:
 npm i -g vercel
 vercel
 ```
-
----
-
-*Built for the Emaar / Dubai Mall digital pitch brief.*
