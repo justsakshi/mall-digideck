@@ -1,4 +1,4 @@
-# Dubai Mall — Digital Deck
+# Dubai Mall - Digital Deck
 
 A luxury-grade interactive digital pitch deck for Dubai Mall, built as a single-page React application. Non-linear navigation, video-first storytelling, and a clean UI inspired by the world's top luxury brands.
 
